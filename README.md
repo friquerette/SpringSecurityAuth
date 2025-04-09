@@ -3,8 +3,9 @@ https://openclassrooms.com/fr/courses/5683681-secure-your-web-application-with-s
 
 URL to get Token from GitHub
 https://github.com/settings/applications/new
-URL Home Page: http://localhost:8080
-default http://localhost:8080/login/oauth2/code/github<http://localhost:8080/github> for my redirect URI. On success, you will get your own client ID and client secret. Save these for later.
+URL Home Page: http://localhost:8080\
+default http://localhost:8080/login/oauth2/code/github<http://localhost:8080/github> \
+or my redirect URI. On success, you will get your own client ID and client secret. Save these for later.
 
 
 
